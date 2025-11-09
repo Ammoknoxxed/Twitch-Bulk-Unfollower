@@ -41,8 +41,5 @@ Development & Contributing
 - content.js
 - options.html / options.js
 - background.js
-- To test changes: modify files → chrome://extensions → Reload extension → use the popup on a Twitch following page.
-- Contribution suggestions: improve selector resilience, add undo queue, enhance i18n, add unit tests for name extraction.
-- When submitting PRs: include a clear description, testing steps, and (if applicable) updated icons.
 License
 MIT — see LICENSE file for details.
